@@ -1,2 +1,25 @@
-# sdah-hymnal-french-database
-Hymnes et Louanges Hymnal lyrics in French also called français or langue française
+# Hymnes et Louanges from Rejnac Foundation.
+
+By sir enock,
+
+The repository contains all the 520 Hymnes et Louanges lyrics in French language also called français or langue française.
+
+Please note that the songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
+
+Hymnes et Louanges is part of several other databases and lyrics based projects that we are currently doing in different languages. 
+
+# Multi-lingual SDA hymnal
+
+Compiled: https://tinyurl.com/rejnac-compiled
+   
+
+# Donation contacts
+You can support us in correcting errors or donating towards a team of dedicated developers involved in this noble project.
+
+* Paypal: info@rejnac.com 
+* M-Pesa: +254713860652
+* Donate: https://tinyurl.com/rejnac-donate
+
+"Preserving the Heritage of SDA worship materials" is our ultimate goal!
+
+Prepared by sir enock, director at Rejnac Group Inc. (https://rejnac.com).
