@@ -1,6 +1,5 @@
 # Hymnes et Louanges from Rejnac Foundation.
 
-By sir enock,
 
 The repository contains all the 520 Hymnes et Louanges lyrics in French language also called français or langue française.
 
