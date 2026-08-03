@@ -17,7 +17,8 @@ Making SDA Worship Material accessible to everyone.
 * M-Pesa: +254713860652
 * Donate: https://tinyurl.com/rejnac-donate
 
-You can support us in correcting errors or donating towards a team of dedicated developers involved in this noble project.
+You can support us in correcting code/lyrics errors or donating towards a team of dedicated developers involved in this noble project.
+
 # Multi-lingual SDA hymnal
 
 Compiled: https://tinyurl.com/rejnac-compiled
