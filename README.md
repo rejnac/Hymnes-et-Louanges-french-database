@@ -4,7 +4,7 @@ By sir enock,
 
 The repository contains all the 520 Hymnes et Louanges lyrics in French language also called français or langue française.
 
-Disclaimer: The lyrics were prepared on VideoPsalm Church Presentation software (opensource), exported in its native (.vpc) format, and extracted as (.Json) file.
+Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software (opensource), exported in its native (.vpc) format, and extracted as (.Json) file.
 
 Hymnes et Louanges is part of several other databases and lyrics based projects that we are currently doing in different languages. 
 
