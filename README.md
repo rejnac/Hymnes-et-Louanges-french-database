@@ -5,7 +5,7 @@ The repository contains all the 520 Hymnes et Louanges lyrics in French language
 
 Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software (open-source), exported in its native (.vpc) format, and extracted as (.Json) file.
 
-Hymnes et Louanges is part of several other SDA music lyrics under refining in different languages. 
+Hymnes et Louanges is part of several other SDA music lyrics under refinement in different languages.  
 
 # Mission
 Making SDA worship material accessible to everyone.
